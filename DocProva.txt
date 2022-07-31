@@ -10,7 +10,7 @@ Alice1
 Bob
 Roy
 Roy1
-Bob1  Divergente on brench
+Bob1  Modifica in contrasto
 bbbbbbbbbb
 ccccccc
 Nuova alice branch
