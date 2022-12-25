@@ -14,8 +14,6 @@ Roy1
 Bob1
 bbbbbbbbbb
 ccccccc
-
-=======
 A
 B
 C
@@ -34,25 +32,15 @@ ccccccc
 Nuova alice branch MODIFICATA
 Merged on main
 AGGIUNTA
->>>>>>> parent of 8c559fd (Commit da HP Privato)
-<<<<<<< .mine
 1111
 Branch 1-1
-=======
 
 Main Modification
->>>>>>> .theirs
 MAinMod2 new Mod in main
 Nrew mod B1-1
-<<<<<<< .mine
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-=======
-
 MAin MErged file
->>>>>>> .theirs
 bbbbbbbbbbbbbbbbbbbbbbbbbb
-
 MAin after brench
 aaaaaaa
-
 Branch 1-1 after branch
