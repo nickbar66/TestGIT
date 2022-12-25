@@ -48,9 +48,11 @@ Nrew mod B1-1
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 =======
 
+MAin MErged file
 >>>>>>> .theirs
 bbbbbbbbbbbbbbbbbbbbbbbbbb
 
+MAin after brench
 aaaaaaa
 
 Branch 1-1 after branch
