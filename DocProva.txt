@@ -35,8 +35,18 @@ Nuova alice branch MODIFICATA
 Merged on main
 AGGIUNTA
 >>>>>>> parent of 8c559fd (Commit da HP Privato)
+<<<<<<< .mine
 1111
 Branch 1-1
+=======
+
+Main Modification
+>>>>>>> .theirs
+MAinMod2 new Mod in main
 Nrew mod B1-1
+<<<<<<< .mine
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+=======
+
+>>>>>>> .theirs
 bbbbbbbbbbbbbbbbbbbbbbbbbb
