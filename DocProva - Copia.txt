@@ -15,8 +15,6 @@ Bob1
 bbbbbbbbbb
 ccccccc
 
-=======
-A
 B
 C
 Brench to fix-checkout   D
