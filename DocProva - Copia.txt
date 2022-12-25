@@ -1,0 +1,40 @@
+<<<<<<< HEAD
+A
+B
+C
+Brench to fix-checkout   D
+E
+F
+G
+Alice
+Alice1
+Bob
+Roy
+Roy1
+Bob1
+bbbbbbbbbb
+ccccccc
+
+=======
+A
+B
+C
+Brench to fix-checkout   D
+E
+F
+G
+Alice
+Alice1
+Bob
+Roy
+Roy1
+Bob1  Modifica in contrasto
+bbbbbbbbbb
+ccccccc
+Nuova alice branch MODIFICATA
+Merged on main
+AGGIUNTA
+>>>>>>> parent of 8c559fd (Commit da HP Privato)
+1111
+Branch 1-1
+Nrew mod B1-1
